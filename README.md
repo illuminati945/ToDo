@@ -3,7 +3,7 @@ A widget for Übersicht that displays the list of tasks in the Today section of 
 
 # Features
 
-  - Click to open ToDo List
+  - Click the widget to open ToDo List
   - No need for internet connectivity
 
 # Configuration
