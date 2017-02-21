@@ -1,5 +1,4 @@
 A widget for Übersicht that displays the list of tasks in the Today section of Things.
-# Screenshot
 
 # Features
 
