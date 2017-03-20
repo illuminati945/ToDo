@@ -1,4 +1,6 @@
-A widget for Übersicht that displays the list of tasks in the Today section of Things.
+A widget for Übersicht that displays your TODO list on your screen
+
+Feel free to send suggestions and add stuff to the widget
 
 # Features
 
@@ -11,3 +13,4 @@ Find inside index.coffee
 # Acknowledgments
 
 http://tracesof.net/uebersicht-widgets/#to-do-list
+
